@@ -65,7 +65,7 @@ QR_Decomposition(a)
 ```
 
 ## Output
-![githublogo](Qr decomposition.png)
+![githublogo](08.png)
 
 
 
